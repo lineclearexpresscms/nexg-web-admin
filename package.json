@@ -16,6 +16,7 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^7.0.0",
-        "bootstrap": "^5.3.8"
+        "bootstrap": "^5.3.8",
+        "quill": "^2.0.3"
     }
 }
